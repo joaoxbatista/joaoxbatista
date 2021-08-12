@@ -1,6 +1,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoxbatista)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoxbatista&hide=issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Sobre ❔
 Seja bem-vindo! Vou falar um pouco sobre mim... Sou do agreste Alagoano, moro em um cidadezinha chamada Coité do Nóia, é eu sei, o nome é estranho... Enfim, é onde nasci e vivo. Tive meu primeiro contato com programação no Instituto Federal de Alagoas, mas sempre sonhava em fazer um site, tinha curiosidade sobre como as coisas funcionavam por de baixo dos panos. Atualmente presto serviço como Desenvolvedor Front-end com Javascript/Vuejs na empresa PerfectPay e estou preste a finalizar minha graduação em Ciência da Computação.
